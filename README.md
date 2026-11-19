@@ -1,2 +1,2 @@
 # learning-about-version-control
-MIlestone for 522
+Milestone for 522
