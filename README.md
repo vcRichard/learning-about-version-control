@@ -1,2 +1,3 @@
-# learning-about-version-control
-Milestone for 522
+ # Learning about Version Control
+ Author: Richard von Celsing
+
