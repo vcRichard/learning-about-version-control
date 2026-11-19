@@ -2,3 +2,5 @@
  Author: Richard von Celsing
 
 Creating merge conflict!
+
+Solving merge conflicts is easy!
